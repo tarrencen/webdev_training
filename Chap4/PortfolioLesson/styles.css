@@ -1,0 +1,59 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    color: navy;
+    font-size: xx-large;
+    font-family: "Helvetica Neue", sans-serif;
+    text-align: left;
+}
+
+h2 {
+    color: navy;
+    font-size: x-large;
+    font-family: "Helvetica Neue", sans-serif;
+    text-align: left;
+}
+
+h3 {
+    color: navy;
+    font-size: large;
+    font-family: "Helvetica Neue", sans-serif;
+    text-align: left;
+}
+
+h4 {
+    color: navy;
+    font-size: large;
+    font-family: "Helvetica Neue", sans-serif;
+    text-align: left;
+}
+
+p {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+}
+
+li {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+a {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+img {
+  opacity: 0.75;
+}
+
+img:hover {
+  opacity: 1.0;
+}
