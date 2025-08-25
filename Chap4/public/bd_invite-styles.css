@@ -1,0 +1,24 @@
+h1 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: xx-large;
+    color: navy;
+}
+
+h2 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: x-large;
+    color: navy;
+}
+
+h3 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: large;
+    color: navy;
+}
+
+p {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: medium;
+    font-style: italic;
+    color: navy;
+}
